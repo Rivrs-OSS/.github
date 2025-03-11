@@ -20,7 +20,7 @@
 1. **Explore the Wiki**  
    - Check out our [Wikis](https://github.com/Rivrs-OSS/) for all the latest guides and player-curated info.
 2. **Suggest Edits or Updates**  
-   - If you spot missing details or want to improve existing pages, feel free to open an issue or a pull request, see [contribution guide](https://wiki.pokelegends.fr/informations-importantes/contributing) for more detailed steps.
+   - If you spot missing details or want to improve existing pages, feel free to open an issue or a pull request, see [contribution guide](../CONTRIBUTING.MD) for more detailed steps.
 3. **Share Your Knowledge**  
    - Your experiences, discoveries, and advice can help grow the community’s collective understanding of our servers.
 

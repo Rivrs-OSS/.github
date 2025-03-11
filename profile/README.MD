@@ -45,3 +45,4 @@ Our wikis serve as a central source of truth for players who want to get the mos
 
 Thank you for visiting **Rivrs-OSS**! We appreciate your help in building and maintaining comprehensive wikis that benefit our entire player community.
 
+![Our Team](../teams.jpg)

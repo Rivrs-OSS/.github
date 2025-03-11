@@ -1,3 +1,5 @@
+![Icon](../icon.png)
+
 # Welcome to Rivrs-OSS
 
 **Rivrs-OSS** is home to the community-driven wikis for all our game servers at Rivrs, a user-generated content (UGC) company dedicated to creating and supporting engaging experiences across multiple gaming platforms. This space is dedicated to helping players create and maintain the best possible resource for fellow community members—by the players, for the players.

@@ -1,4 +1,4 @@
-![Icon](../icon.png)
+<img src="../icon.png" alt="Icon" width="300"/>
 
 # Welcome to Rivrs-OSS
 

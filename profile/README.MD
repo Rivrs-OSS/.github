@@ -38,8 +38,8 @@ Our wikis serve as a central source of truth for players who want to get the mos
 
 ## Stay Connected
 
-- **Official Rivrs Website**: [rivrs.io](https://rivrs.io) *(placeholder)*  
-- **Official Rivrs Discord**: [discord.gg/rivrs](https://discord.gg/xxcN2YzNcq) *(placeholder)*  
+- **Official Rivrs Website**: [rivrs.io](https://rivrs.io) 
+- **Official Rivrs Discord**: [discord.gg/rivrs](https://discord.gg/xxcN2YzNcq)
 - **Player Support**: Reach out through our community discord, website contact form, in-game channels or community forums (links available in the Wikis).  
 - **Follow Our Progress**: Keep an eye on this space for potential new projects and opportunities to contribute.
 
